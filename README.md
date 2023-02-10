@@ -12,8 +12,7 @@ arc60h/arc60a/arc60s directly, but you need to import Json files to use it. Plea
 recommended, other browsers may have problems):VIA: https://usevia.app/
 If the web version cannot be used, you can download the software to use it, the download link:https://github.com/the-via/releases/releases/tag/v2.0.5
 # UPDATE STEPS
-Press and hold Eason to plug in the data cable or use the shortcut key (Reset)
-to enter the flashing mode to enter the flashing mode, a U disk called
+Enter the flash mode, one is called U disk
 Eason-ARC60 will appear on your computer, copy the firmware file into it, and the keyboard will automatically refresh, that is, the flashing is complete.
 # How to enter the flash mod
 
