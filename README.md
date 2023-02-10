@@ -16,9 +16,8 @@ Press and hold Eason to plug in the data cable or use the shortcut key (Reset)
 to enter the flashing mode to enter the flashing mode, a U disk called
 Eason-ARC60 will appear on your computer, copy the firmware file into it, and the keyboard will automatically refresh, that is, the flashing is complete.
 # How to enter the flash mod
-1. Press and hold ESC to plug in the data cable
-2. FN+ENTER 
-3. Press the button on the back of the PCB twice
+
+ Press the button on the back of the PCB twice
 # Download the latest firmware
 Press and hold ESC to plug in the data cable or use the shortcut key (Reset) to enter the
 flash mode, a U disk called Eason-ARC60 will appear on your computer, and open it.
