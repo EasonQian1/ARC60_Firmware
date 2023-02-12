@@ -8,7 +8,7 @@ If the web version cannot be used, you can download the software to use it, the 
 # VIA
 ARC60 full series firmware supports Via, you can directly use Via to
 view/modify the default key positions. Note: Arc60 can open the latest via or web version and use
-arc60h/arc60a/arc60s directly, but you need to import Json files to use it. Please use the Via web version to modify directly (Chrome browser is
+arc60a/arc60s directly, but you need to import Json files to use it. Please use the Via web version to modify directly (Chrome browser is
 recommended, other browsers may have problems):VIA: https://usevia.app/
 If the web version cannot be used, you can download the software to use it, the download link:https://github.com/the-via/releases/releases/tag/v2.0.5
 # UPDATE STEPS
